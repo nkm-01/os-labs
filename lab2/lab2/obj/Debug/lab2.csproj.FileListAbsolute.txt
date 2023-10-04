@@ -1,0 +1,6 @@
+/home/nikita/Documents/Учёба/ОС/lab2/lab2/bin/Debug/lab2.exe
+/home/nikita/Documents/Учёба/ОС/lab2/lab2/bin/Debug/lab2.pdb
+/home/nikita/Documents/Учёба/ОС/lab2/lab2/obj/Debug/lab2.csproj.AssemblyReference.cache
+/home/nikita/Documents/Учёба/ОС/lab2/lab2/obj/Debug/lab2.csproj.CoreCompileInputs.cache
+/home/nikita/Documents/Учёба/ОС/lab2/lab2/obj/Debug/lab2.exe
+/home/nikita/Documents/Учёба/ОС/lab2/lab2/obj/Debug/lab2.pdb

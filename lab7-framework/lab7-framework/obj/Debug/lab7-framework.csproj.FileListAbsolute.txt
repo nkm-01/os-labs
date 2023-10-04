@@ -1,0 +1,6 @@
+/home/nikita/Documents/Учёба/ОС/lab7-framework/lab7-framework/bin/Debug/lab7_framework.exe
+/home/nikita/Documents/Учёба/ОС/lab7-framework/lab7-framework/bin/Debug/lab7_framework.pdb
+/home/nikita/Documents/Учёба/ОС/lab7-framework/lab7-framework/obj/Debug/lab7-framework.csproj.AssemblyReference.cache
+/home/nikita/Documents/Учёба/ОС/lab7-framework/lab7-framework/obj/Debug/lab7-framework.csproj.CoreCompileInputs.cache
+/home/nikita/Documents/Учёба/ОС/lab7-framework/lab7-framework/obj/Debug/lab7_framework.exe
+/home/nikita/Documents/Учёба/ОС/lab7-framework/lab7-framework/obj/Debug/lab7_framework.pdb
